@@ -4,6 +4,7 @@ vendor
 report
 components
 plugins/*
+!plugins/mathjax
 composer.phar
 composer.lock
 node_modules
