@@ -5,6 +5,7 @@ report
 components
 node_modules
 plugins/*
+!plugins/mathjax/
 !README
 composer.phar
 composer.lock

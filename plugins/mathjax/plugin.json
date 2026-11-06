@@ -1,0 +1,4 @@
+{
+  "js": ["mathjax-plugin.js"],
+  "callback": ["mathjaxTypesetMainContent"]
+}
